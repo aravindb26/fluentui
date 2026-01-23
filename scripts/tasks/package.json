@@ -8,7 +8,7 @@
     "@fluentui/scripts-utils": "*",
     "@fluentui/scripts-prettier": "*",
     "flamegrill": "0.2.0",
-    "just-scripts": "1.8.2"
+    "just-scripts": "2.1.2"
   },
   "devDependencies": {}
 }
